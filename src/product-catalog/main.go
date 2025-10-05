@@ -3,7 +3,7 @@
 package main
 
 //go:generate go install google.golang.org/protobuf/cmd/protoc-gen-go
-//go:generate go install google.golang.org/protobuf/cmd/protoc-gen-go-05oct2025
+//go:generate go install google.golang.org/protobuf/cmd/protoc-gen-go-05oct202505-19:47
 //go:generate go install google.golang.org/protobuf/cmd/protoc-gen-go-day
 //go:generate go install google.golang.org/protobuf/cmd/protoc-gen-go
 //go:generate go install google.golang.org/grpc/cmd/protoc-gen-go-grpc
